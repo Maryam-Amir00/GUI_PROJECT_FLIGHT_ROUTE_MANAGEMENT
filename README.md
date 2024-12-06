@@ -34,7 +34,7 @@ The **Flight Route Management System** is an interactive application designed fo
 ---
 
 ### WorkFlow Diagram
-The workflow below illustrates how different the Project Works.
+The workflow below illustrates how the Project Works.
 
 ![WorkFlow](https://github.com/Maryam-Amir00/GUI_PROJECT_FLIGHT_ROUTE_MANAGEMENT/blob/main/Images/Workflow.png)
 ![WorkFlow](https://github.com/Maryam-Amir00/GUI_PROJECT_FLIGHT_ROUTE_MANAGEMENT/blob/main/Images/Workflow_2.png)
