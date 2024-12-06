@@ -61,7 +61,7 @@ The workflow below illustrates how the Project Works.
 ### **Steps**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/<your-username>/FlightRouteManagementSystem.git  
+   git clone https://github.com/<Maryam-Amir00>/FlightRouteManagementSystem.git  
    ```  
 2. Open the `.pro` file in Qt Creator.  
 3. Build and run the project.  
